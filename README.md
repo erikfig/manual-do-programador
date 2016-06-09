@@ -28,8 +28,8 @@ O seu arquivo `content_[referencia].json` deve se parecer com:
                 "name": "Básico",
                 "description": "Pellentesque fermentum dolor sit amet eleifend mollis. Phasellus ipsum magna, bibendum ac lorem quis, porta pharetra sem. Nulla condimentum risus ut nulla egestas, vel eleifend nisl scelerisque.",
                 "icon": "icon.png",
-          "professor": "Erik Figueiredo",
-          "professor_url": "http://www.erikfigueiredo.com.br",
+                "professor": "Erik Figueiredo",
+                "professor_url": "http://www.erikfigueiredo.com.br",
                 "lessons": [
                     {
                         "name": "Variáveis",
