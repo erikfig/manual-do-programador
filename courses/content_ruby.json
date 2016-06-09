@@ -1,0 +1,51 @@
+{
+  "name": "Aprenda Ruby",
+	"reference": "ruby",
+	"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum venenatis mauris urna, eget ullamcorper massa placerat consectetur.",
+  "icon": "img/ruby.png",
+	"theme": "red",
+	"chapters": [
+		{
+			"name": "Básico",
+			"description": "Pellentesque fermentum dolor sit amet eleifend mollis. Phasellus ipsum magna, bibendum ac lorem quis, porta pharetra sem. Nulla condimentum risus ut nulla egestas, vel eleifend nisl scelerisque.",
+			"icon": "icon.png",
+      "professor": "Erik Figueiredo",
+      "professor_url": "http://www.erikfigueiredo.com.br",
+			"lessons": [
+				{
+					"name": "Variáveis",
+					"description": "$nome = \"Ruby on Rails\";"
+				},
+				{
+					"name": "Estrutura de controle",
+					"description": ""
+				},
+				{
+					"name": "Estruturas de repetição",
+					"description": ""
+				}
+			]
+		},
+		{
+			"name": "Orientação a objetos",
+			"description": "Pellentesque fermentum dolor sit amet eleifend mollis. Phasellus ipsum magna, bibendum ac lorem quis, porta pharetra sem. Nulla condimentum risus ut nulla egestas, vel eleifend nisl scelerisque.",
+			"icon": "icon2.png",
+      "professor": "Erik Figueiredo",
+      "professor_url": "http://www.erikfigueiredo.com.br",
+			"lessons": [
+				{
+					"name": "Classes",
+					"description": ""
+				},
+				{
+					"name": "Visibilidade",
+					"description": ""
+				},
+				{
+					"name": "Herança",
+					"description": ""
+				}
+			]
+		}
+	]
+}

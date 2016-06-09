@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+}
+body {
+    background: #eee;
+}
+.container {
+    background: #fff;
+    min-height: 100%;
+}
